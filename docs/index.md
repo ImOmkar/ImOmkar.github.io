@@ -61,5 +61,4 @@ I build reliable backend systems and microservices that are used in real product
 ## Contact
 
 - **GitHub:** https://github.com/ImOmkar  
-<!-- - **LinkedIn:** https://linkedin.com/in/yourprofile   -->
 - **Email:** omkar211196@gmail.com

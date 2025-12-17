@@ -46,6 +46,25 @@ I build production-ready backend systems and full-stack applications, with hands
 
 ---
 
+## Independent Projects (Pre-Industry)
+
+### TheLekhni.com – Marathi Content Sharing Platform
+- **Django, Tailwind CSS, HTMX**
+- Built a content sharing platform focused on Marathi-language content
+- Implemented user-generated posts with dynamic interactions using HTMX
+- Deployed on **DigitalOcean VPS**
+- Used **AWS S3 bucket for remote media storage**
+- Live: https://thelekhani.com
+
+### Modi Lipi Converter – Devanagari to Modi Script
+- **Django, Tailwind CSS**
+- Web application to convert Devanagari text into Modi script
+- Designed for linguistic and historical use cases
+- Hosted on **PythonAnywhere**
+- Live: https://modilipi.pythonanywhere.com/
+
+---
+
 ## Experience Snapshot
 
 - **2+ years** of hands-on development experience

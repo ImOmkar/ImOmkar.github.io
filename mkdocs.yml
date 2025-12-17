@@ -5,8 +5,8 @@ theme:
     scheme: slate
     primary: blue
 
-nav:
-  - Home: index.md
-  # - Projects: projects.md
-  # - Experience: experience.md
-  # - Contact: contact.md
+# nav:
+#   - Home: index.md
+#   - Projects: projects.md
+#   - Experience: experience.md
+#   - Contact: contact.md

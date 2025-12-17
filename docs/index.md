@@ -81,6 +81,20 @@ I build production-ready backend systems and full-stack applications, with hands
   - Official Django localization project
   - Managed translations using Transifex
 
+---
+
+## AI / LLM Experiments (Learning)
+
+### ImperaStack Assistant – RAG-based QA Prototype
+- **Python, SentenceTransformers, HuggingFace Transformers**
+- Built a small **Retrieval-Augmented Generation (RAG)** prototype for answering questions from internal documents
+- Used **all-MiniLM-L6-v2** for embeddings and **Flan-T5-Small** for text generation
+- Implemented document retrieval + generation pipeline to study retrieval quality and response behavior
+- **Live Demo:** https://imperastackassistant.streamlit.app/
+- **GitHub:** https://github.com/ImOmkar/ImperaStack-Assistant
+
+---
+
 ## Tech Stack
 
 **Backend:** Python, Django, Flask, FastAPI  

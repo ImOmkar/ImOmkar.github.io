@@ -1,4 +1,4 @@
-# Omkar S. Parab
+# Omkar Subhash Parab
 
 **Backend / Full-Stack Developer (2+ Years Experience)**
 

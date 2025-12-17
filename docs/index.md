@@ -1,64 +1,69 @@
-# Omkar Parab
+# Omkar S. Parab
 
-**Backend / Full-Stack Developer**
+**Backend / Full-Stack Developer (2+ Years Experience)**
 
-Django · FastAPI · REST APIs · JWT · OCR · AI · Payments
+Python · Django · FastAPI · React · REST APIs · JWT · OCR · Payments
 
-I build reliable backend systems and microservices that are used in real production environments, with a strong focus on clean architecture, security, and scalability.
+I build production-ready backend systems and full-stack applications, with hands-on experience in fintech platforms, OCR automation, and real-world deployments.
 
 ---
 
 ## What I Do
 
-- Build backend APIs using **Django, Django REST Framework, and FastAPI**
-- Design **authentication & authorization** flows using JWT and role-based access
-- Develop **microservices** for OCR, AI inference, and async processing
+- Build scalable backend APIs using **Django, Django REST Framework, and FastAPI**
+- Design secure **authentication, authorization, and RBAC workflows**
+- Develop **OCR and PDF data extraction** systems for enterprise use cases
+- Build and integrate **full-stack modules** using React + backend APIs
 - Integrate and secure **payment gateways** like Razorpay and Cashfree
-- Debug production issues and work closely with deployments on Linux
+- Deploy and debug applications on **Linux servers with Nginx & Gunicorn**
 
 ---
 
-## Key Projects
+## Key Work & Projects
 
-### Loan Origination System (LOS)
-- **Django, DRF, JWT**
-- Multi-step loan application and approval workflow
-- Role-based access for different approval levels
-- Built to handle real user data and production traffic
+### Loan Origination & Disbursal Systems (Fintech)
+- **Django, DRF, FastAPI, React**
+- Built loan origination and personal loan disbursal modules used internally
+- Implemented multi-step workflows, approvals, and backend validations
+- Worked closely with business teams to refine functional flows
 
-### OCR & AI Microservice
-- **FastAPI, HuggingFace**
-- Image-to-text extraction without traditional OCR tools
-- Designed as an independent microservice with async processing
+### ImperaCam – OCR & PDF Data Extraction
+- **Python, OCR, PDF table extraction**
+- Extracted structured tabular data from scanned bank statements
+- Reduced manual effort through automation
+- Integrated OCR into existing enterprise workflows
 
-### Payment Integrations
+### Payments & Integrations
 - **Razorpay & Cashfree**
-- Secure payment initiation, callbacks, and verification
-- Focus on reliability and failure handling
+- Implemented payment flows with webhook signature verification
+- Integrated external APIs including **Shopify Admin APIs**
 
 ---
 
 ## Experience Snapshot
 
-- 2+ years working on backend-heavy systems
-- Experience with real production bugs, logs, and performance issues
-- Comfortable with **Linux, Nginx, Gunicorn, and API deployments**
-- Strong preference for clean, readable, and maintainable code
+- **2+ years** of hands-on development experience
+- Worked on **production fintech and enterprise applications**
+- Comfortable with **backend-heavy systems and real production issues**
+- Experience deploying apps on **DigitalOcean and AWS S3**
+- Contributor to **Django Marathi localization (open source)**
 
 ---
 
 ## Tech Stack
 
-**Backend:** Python, Django, FastAPI  
-**APIs:** REST, JWT Authentication  
-**Databases:** PostgreSQL, SQLite  
-**AI / OCR:** HuggingFace Models  
-**DevOps:** Linux, Nginx, Gunicorn  
-**Frontend (working knowledge):** React, Tailwind CSS
+**Backend:** Python, Django, Flask, FastAPI  
+**Frontend:** React, JavaScript, Tailwind CSS  
+**APIs:** REST, JWT Authentication, RBAC  
+**Databases:** PostgreSQL, MySQL  
+**OCR / Automation:** Tesseract OCR, PDF Data Extraction  
+**DevOps:** Linux, Nginx, Gunicorn, DigitalOcean, AWS S3  
+**Tools:** Git, GitHub, Postman
 
 ---
 
 ## Contact
 
 - **GitHub:** https://github.com/ImOmkar  
-- **Email:** omkar211196@gmail.com
+- **Email:** omkar211196@gmail.com  
+- **Location:** Mira Road, Mumbai, India

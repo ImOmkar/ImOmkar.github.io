@@ -7,6 +7,6 @@ theme:
 
 nav:
   - Home: index.md
-  - Projects: projects.md
-  - Experience: experience.md
-  - Contact: contact.md
+  # - Projects: projects.md
+  # - Experience: experience.md
+  # - Contact: contact.md

@@ -33,6 +33,12 @@ I build production-ready backend systems and full-stack applications, with hands
 - Reduced manual effort through automation
 - Integrated OCR into existing enterprise workflows
 
+### HRMS (Human Resource Management System)
+- **React, REST APIs**
+- Developed reusable UI components for attendance, leave, and employee workflows
+- Integrated frontend modules with backend APIs
+- Focused on clean UI structure and maintainable component design
+
 ### Payments & Integrations
 - **Razorpay & Cashfree**
 - Implemented payment flows with webhook signature verification
@@ -49,6 +55,12 @@ I build production-ready backend systems and full-stack applications, with hands
 - Contributor to **Django Marathi localization (open source)**
 
 ---
+
+## Open Source
+
+- Contributor and coordinator for **Django Marathi language translation**
+  - Official Django localization project
+  - Managed translations using Transifex
 
 ## Tech Stack
 

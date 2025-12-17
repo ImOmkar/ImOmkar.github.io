@@ -48,7 +48,7 @@ I build production-ready backend systems and full-stack applications, with hands
 
 ## Independent Projects (Pre-Industry)
 
-### TheLekhni.com – Marathi Content Sharing Platform
+### TheLekhani.com – Marathi Content Sharing Platform
 - **Django, Tailwind CSS, HTMX**
 - Built a content sharing platform focused on Marathi-language content
 - Implemented user-generated posts with dynamic interactions using HTMX

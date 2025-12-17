@@ -6,6 +6,8 @@ Python · Django · FastAPI · React · REST APIs · JWT · OCR · Payments
 
 I build production-ready backend systems and full-stack applications, with hands-on experience in fintech platforms, OCR automation, and real-world deployments.
 
+**📄 Resume:** [Download PDF](assets/Omkar_Parab_Python_Django_React_2+Yrs.pdf)
+
 ---
 
 ## What I Do
